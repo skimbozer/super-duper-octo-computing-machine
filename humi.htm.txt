@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Humidificateur - Votre nom de marque</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Votre nom de marque - Humidificateur</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Accueil</a></li>
+        <li><a href="#">A propos</a></li>
+        <li><a href="#">Contactez-nous</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section class="product-details">
+      <h2>Humidificateur pour votre maison</h2>
+      <img src="humidifier.jpg" alt="Humidificateur" width="400">
+      <p>L'humidificateur est parfait pour garder l'air de votre maison humide. Il peut aider à prévenir la sécheresse de la peau, des lèvres et des voies respiratoires. Il est également idéal pour réduire la propagation des virus et des bactéries.</p>
+      <ul>
+        <li>Capacité du réservoir d'eau: 3,5 litres</li>
+        <li>Autonomie: jusqu'à 16 heures</li>
+        <li>Technologie de pulvérisation à ultrasons</li>
+        <li>Fonctionnement silencieux</li>
+      </ul>
+      <button>Acheter maintenant</button>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; Votre nom de marque - Tous droits réservés</p>
+  </footer>
+</body>
+</html>
